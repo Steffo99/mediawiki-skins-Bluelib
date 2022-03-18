@@ -1,5 +1,6 @@
 {
-	"name": "mediawiki/bluelib",
+	"name": "steffo/mediawiki-skins-bluelib",
+	"description": "MediaWiki skins using Bluelib",
 	"require-dev": {
 		"mediawiki/mediawiki-codesniffer": "38.0.0",
 		"mediawiki/mediawiki-phan-config": "0.11.0",
